@@ -1,0 +1,44 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  /* Global settings */
+
+.container {
+    overflow: hidden;
+    line-height: 3rem;
+    width: 80%;
+    
+  }
+  a {
+    text-decoration: none;
+
+  }
+
+    /* Kvantra logo */
+
+  .Logo {
+    background-color: rgb(251, 29, 255);
+    padding: 1%;
+    text-align: center;
+
+  }
+
+    /* Login augsa */
+
+  .login-container{
+    display: flex;
+    align-items: right;
+  }
+  .Profils{
+    flex-basis: 90%;
+    text-align: right;
+  }
+  .Mans-grozs{
+    flex-basis: 10%;
+    text-align: right;
+  }
+
+    /* Jaunumi */
